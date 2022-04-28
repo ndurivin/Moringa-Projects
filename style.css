@@ -4,6 +4,7 @@
         width: 200px;
         height: 60px;
         overflow: auto;
+        border-style: solid;
+        border-color: blue;
           
-          
-      }
+    }
